@@ -1,5 +1,5 @@
 # 💫 Hey! This is Harsh Rawat
-I am an undergraduate student studying Computer science and Engineering at VIT and working towards Development.
+I am an undergraduate student studying Computer science and Engineering at VIT and working towards Front-end Development.
 
 
 ## 🌐 Socials:
